@@ -1,1 +1,1 @@
-Simple app for learning react fundamentals
+Simple app where I am learning react fundamentals
